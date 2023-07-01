@@ -43,6 +43,7 @@
 		B6CCBF802A2FF49900B1F194 /* RMService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6CCBF7F2A2FF49900B1F194 /* RMService.swift */; };
 		B6CCBF822A2FF4E000B1F194 /* RMRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6CCBF812A2FF4E000B1F194 /* RMRequest.swift */; };
 		B6CCBF842A2FF6EC00B1F194 /* RMEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6CCBF832A2FF6EC00B1F194 /* RMEndpoint.swift */; };
+		B6D87EE42A50A2690046C8E1 /* RMEpisodeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D87EE32A50A2690046C8E1 /* RMEpisodeDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +85,7 @@
 		B6CCBF7F2A2FF49900B1F194 /* RMService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMService.swift; sourceTree = "<group>"; };
 		B6CCBF812A2FF4E000B1F194 /* RMRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMRequest.swift; sourceTree = "<group>"; };
 		B6CCBF832A2FF6EC00B1F194 /* RMEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMEndpoint.swift; sourceTree = "<group>"; };
+		B6D87EE32A50A2690046C8E1 /* RMEpisodeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMEpisodeDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				B62670B82A3CEC9100833E24 /* RMCharacterDetailViewController.swift */,
+				B6D87EE32A50A2690046C8E1 /* RMEpisodeDetailViewController.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -366,6 +369,7 @@
 				B6CCBF802A2FF49900B1F194 /* RMService.swift in Sources */,
 				B6CCBF712A2FCA7500B1F194 /* RMLocation.swift in Sources */,
 				B6CCBF842A2FF6EC00B1F194 /* RMEndpoint.swift in Sources */,
+				B6D87EE42A50A2690046C8E1 /* RMEpisodeDetailViewController.swift in Sources */,
 				B6CCBF732A2FCAB200B1F194 /* RMCharacter.swift in Sources */,
 				B6749F6F2A37AC8D00C7D3FC /* RMCharacterCollectionViewCellViewModel.swift in Sources */,
 				B6CCBF822A2FF4E000B1F194 /* RMRequest.swift in Sources */,
