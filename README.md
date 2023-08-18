@@ -1,6 +1,7 @@
 # Rick & Morty
 ## Overview
 - UIKit + SwiftUI
+- MVVM
 - Auto Layout
 - API: rickandmortyapi.com
 - Supports iPad and Mac
